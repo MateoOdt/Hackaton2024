@@ -76,6 +76,7 @@ export const ChartBar = (): JSX.Element => {
     <div
       style={{
         width: "800px",
+        height: "400px",
       }}
     >
       <Bar ref={ref} data={data} options={options} />
