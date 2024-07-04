@@ -1,4 +1,3 @@
-import React from "react";
 import { ChartLine } from "../../components/ChartLine";
 import { Grid, Typography } from "@mui/material";
 import { ChartBar } from "../../components/ChartBar";
