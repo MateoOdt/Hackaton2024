@@ -5,7 +5,6 @@ import {
   IconButton,
   Typography,
 } from "@mui/material";
-import React from "react";
 import CloseIcon from "@mui/icons-material/Close";
 
 export function NFCDialog({ onClose }: { onClose: () => void }) {
