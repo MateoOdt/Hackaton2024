@@ -2,7 +2,6 @@ import {
   CircularProgress,
   DialogContent,
   Grid,
-  Icon,
   IconButton,
   Typography,
 } from "@mui/material";
