@@ -1,7 +1,6 @@
-import { useState, useRef } from "react";
-import { Bar, Line } from "react-chartjs-2";
+import { useRef } from "react";
+import { Bar } from "react-chartjs-2";
 import "chart.js/auto";
-import React from "react";
 
 export const ChartBar = (): JSX.Element => {
   const ref = useRef();

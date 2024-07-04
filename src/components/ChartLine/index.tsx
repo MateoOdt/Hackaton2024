@@ -1,7 +1,5 @@
-import { useState, useRef } from "react";
 import { Line } from "react-chartjs-2";
 import "chart.js/auto";
-import React from "react";
 
 export const ChartLine = (): JSX.Element => {
   const options = {
